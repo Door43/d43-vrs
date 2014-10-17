@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vrs:home|Door43 (vrs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vrs|d43-vrs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vrs/archive/master.zip|d43-vrs.zip]]
+
+**Recent Changes**
+{{changes>ns = vrs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vrs|Ethnologue data]]
+
